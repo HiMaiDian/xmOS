@@ -1,0 +1,12 @@
+[server]
+Port = 8089:8089
+CronTime = 10
+Server = http://localhost
+
+[client]
+Name = A
+Manager = Ben
+Email = 23729703@qq.com
+Description = description
+Initialized = false
+Token = eyJdshbGciOiJIUz333I1NiIsInR5cCI6IkpXVCJ9
